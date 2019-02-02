@@ -575,3 +575,11 @@ msgstr "Profile avatar"
 msgctxt "#31167"
 msgid "Animate background"
 msgstr "Animate background"
+
+msgctxt "#32134"
+msgid "Fast OSD hide"
+msgstr "Fast OSD hide"
+
+msgctxt "#32135"
+msgid "Hide OSD on pause"
+msgstr "Hide OSD on pause"

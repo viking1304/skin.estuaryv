@@ -67,3 +67,11 @@ msgstr "Shift"
 msgctxt "#31165"
 msgid "Profile name"
 msgstr "Profile name"
+
+msgctxt "#32134"
+msgid "Fast OSD hide"
+msgstr "Fast OSD hide"
+
+msgctxt "#32135"
+msgid "Hide OSD on pause"
+msgstr "Hide OSD on pause"

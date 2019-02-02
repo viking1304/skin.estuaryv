@@ -539,3 +539,11 @@ msgstr "Numerička tastatura"
 msgctxt "#31165"
 msgid "Profile name"
 msgstr "Ime profila"
+
+msgctxt "#32134"
+msgid "Fast OSD hide"
+msgstr "Brzo skrivanje OSD-a"
+
+msgctxt "#32135"
+msgid "Hide OSD on pause"
+msgstr "Skrivanje OSD-a kada je pauziran video"

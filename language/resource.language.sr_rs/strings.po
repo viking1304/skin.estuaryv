@@ -539,3 +539,11 @@ msgstr "Нумеричка тастатура"
 msgctxt "#31165"
 msgid "Profile name"
 msgstr "Име профила"
+
+msgctxt "#32134"
+msgid "Fast OSD hide"
+msgstr "Брзо скривање ОСД-а"
+
+msgctxt "#32135"
+msgid "Hide OSD on pause"
+msgstr "Скривање ОСД-а када је паузиран видео"

@@ -765,3 +765,15 @@ msgstr ""
 msgctxt "#31167"
 msgid "Animate background"
 msgstr ""
+
+#. Label of a setting
+#: /xml/SkinSettings.xml
+msgctxt "#32134"
+msgid "Fast OSD hide"
+msgstr "Fast OSD hide"
+
+#. Label of a setting
+#: /xml/SkinSettings.xml
+msgctxt "#32135"
+msgid "Hide OSD on pause"
+msgstr "Hide OSD on pause"

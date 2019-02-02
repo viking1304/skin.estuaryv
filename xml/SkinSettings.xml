@@ -73,6 +73,18 @@
 					<onclick>Skin.SelectBool(31164, 31165|show_profilename, 31166|show_profileavatar, 16018|show_none)</onclick>
 					<label2>$VAR[ProfileIdentificationLabel2Var]</label2>
 				</control>
+				<control type="radiobutton" id="708">
+					<label>$LOCALIZE[32134]</label>
+					<include>DefaultSettingButton</include>
+					<onclick>Skin.ToggleSetting(fast_osd_hide)</onclick>
+					<selected>Skin.HasSetting(fast_osd_hide)</selected>
+				</control>
+				<control type="radiobutton" id="709">
+					<label>$LOCALIZE[32135]</label>
+					<include>DefaultSettingButton</include>
+					<onclick>Skin.ToggleSetting(hide_osd_on_pause)</onclick>
+					<selected>Skin.HasSetting(hide_osd_on_pause)</selected>
+				</control>
 			</control>
 			<control type="grouplist" id="600">
 				<top>160</top>
